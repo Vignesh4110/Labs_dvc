@@ -2,4 +2,4 @@
     remote = myremote
 ['remote "myremote"']
     url = gs://dvcb/
-    credentialpath = ../keys.json
+    credentialpath = /Users/vignesh/DE-Workspace/Classwork/ie7300_mlops/labs/keys.json
