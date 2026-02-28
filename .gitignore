@@ -10,4 +10,4 @@ venv/
 *.egg-info/
 
 # DVC internal (git tracks .dvc files, NOT the cache)
-/data/.gitignore
+/data/.gitignorekeys.json
