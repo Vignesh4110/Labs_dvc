@@ -1,8 +1,6 @@
 gcp-mlops-488805-97dd6f2c3b29.json
 
 # DVC tracked data - don't push actual data to git
-data/
-*.csv
 
 # Python
 __pycache__/

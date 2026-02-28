@@ -1,0 +1,2 @@
+dvc"[gc]"      # DVC extension for Google Cloud Storage
+google-cloud-storage

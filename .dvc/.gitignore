@@ -1,3 +1,19 @@
+# GCP credentials - NEVER commit this
+keys.json
+
+# DVC tracked data - don't push actual data to git
+data/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+*.egg-info/
+
+# DVC internal (git tracks .dvc files, NOT the cache)
+/data/.gitignore
 /config.local
 /tmp
 /cache
